@@ -1,6 +1,6 @@
 # **Web Development Essentials Roadmap**
 
-This roadmap is designed to provide university students with the essential knowledge and skills required for web development. The roadmap covers key topics such as how the internet works, version control, HTML, CSS, and Tailwind CSS. The content is divided into 8 weeks, making it suitable for a structured learning approach. By following this roadmap, university students will gain a solid foundation in web development and be ready to explore more advanced concepts and technologies.
+This roadmap is designed to provide university students with the essential knowledge and skills required for web development. The roadmap covers key topics such as how the internet works, version control, HTML, CSS, and Tailwind CSS. The content is divided into 7 weeks, making it suitable for a structured learning approach. By following this roadmap, university students will gain a solid foundation in web development and be ready to explore more advanced concepts and technologies.
 
 ## **Target Audience**
 
@@ -88,16 +88,6 @@ This roadmap is designed to provide university students with the essential knowl
 3. Tailwind CSS components
 4. Tailwind CSS responsive design
 5. Tailwind CSS plugins
-
-## **Practical Templates (Week 8)**
-
-### **_Templates_**
-
-1. [Tailwind CSS Template 1](Tasks/TailwindCSS/Task1)
-2. [Tailwind CSS Template 2](Tasks/TailwindCSS/Task2)
-3. [Tailwind CSS Template 3](Tasks/TailwindCSS/Task3)
-4. [Tailwind CSS Template 4](Tasks/TailwindCSS/Task4)
-5. [Tailwind CSS Template 5](Tasks/TailwindCSS/Task5)
 
 ## **Additional Meteirals**
 
