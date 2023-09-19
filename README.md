@@ -37,6 +37,7 @@ Here are some resources to learn these topics:
 - [FreeCodeCamp - Introduction to Programming and Computer Science](https://youtu.be/zOjov-2OZ0E) | English
 - [FreeCodeCamp - C++ Tutorial for Beginners](https://youtu.be/vLnPwxZdW4Y) | English
 - [Elzero Web School - Fundamentals Of Programming With C++](https://youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS) | Arabic
+- [Abdelrahman Gamal - CS50 course](https://youtube.com/playlist?list=PLknwEmKsW8OvMsFbU9zo8oJCprAsgc4LO&si=un9Eynlugg8EUQVI) | Arabic
 - [FreeCodeCamp - Algorithms and Data Structures](https://youtu.be/8hly31xKli0) | English
 - [Adel Nasim - Data Structures Full Course](https://youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp) | Arabic
 - [Omar Ahmed - OOP - بالعربي](https://youtube.com/playlist?list=PLwWuxCLlF_ue7GPvoG_Ko1x43tZw5cz9v) | Arabic
@@ -112,13 +113,6 @@ To Practise</b></h3>
 | [The Net Ninja - Tailwind CSS Tutorial](https://youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw) | 2 hours     |
 | [Arabic - Tailwind CSS](https://youtu.be/Pk3hhCJG2Dk) [Optional]                                              | 2 hours     |
 
-<h4><b>Task list</b></h4>
-
-- [ ] [task 1](Tasks/TailwindCSS/Task1)
-- [ ] [task 2](Tasks/TailwindCSS/Task2)
-- [ ] [task 3](Tasks/TailwindCSS/Task3)
-- [ ] [task 4](Tasks/TailwindCSS/Task4)
-- [ ] [task 5](Tasks/TailwindCSS/Task5)
 
 <h3><b>Bootstrap [Optional]</b></h3>
 
