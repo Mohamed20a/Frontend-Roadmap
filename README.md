@@ -96,7 +96,7 @@ To Practise</b></h3>
 <hr/>
 <a href="https://youtube.com/playlist?list=PLDoPjvoNmBAyGaRGzPVZCkYx5L7Mo9Tbh">HTML And CSS Template 4</a> | 7 Hours
 <hr/>
-<a href="https://www.udemy.com/course/the-complete-html-css-and-projects/learn/lecture/40260358?referralCode=87AE473FEAB17439152B">The Complete HTML & CSS Course and Projects</a>
+<a href="https://www.udemy.com/course/the-complete-html-css-and-projects/learn/lecture/40260358?referralCode=87AE473FEAB17439152B">The Complete HTML & CSS Course and Projects</a> | Udemy
 
 
 <br/>
