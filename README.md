@@ -146,6 +146,7 @@ To Practise</b></h3>
 
 | Resources                                                                                        | Effort   |
 | ------------------------------------------------------------------------------------------------ | -------- |
+| [Elzero Web School - Learn JavaScript in Arabic](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv) | 19 hours |
 | [Meta - Programming with JavaScript](https://www.coursera.org/learn/programming-with-javascript) | 20 hours |
 | [FreeCodeCamp - Learn JavaScript](https://youtu.be/PkZNo7MFNFg) [Optional]                       | 10 hours |
 
