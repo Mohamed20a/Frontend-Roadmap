@@ -58,6 +58,7 @@ Here are some resources to learn these topics:
 - <a href="#CSS3">CSS3</a>
 - <a href="#tailwindcss">Tailwind CSS | Bootstrap</a>
 - <a href="#versionControl">Version Control</a>
+- <a href="#pwa">PWA Course</a>
 
 <h3 id="IntroductiontoFrontEndDevelopment"><b>Introduction</b></h3>
 
@@ -88,7 +89,7 @@ By the end of the course, you will be able to:
 
 | Resource                                                      | Effort   |
 | ------------------------------------------------------------- | -------- |
-| [The Complete HTML & CSS Course and Projects]([https://youtu.be/qyVkLebgfzY](https://www.udemy.com/course/the-complete-html-css-and-projects/learn/lecture/40260358?referralCode=87AE473FEAB17439152B)) | 9.5 hours |
+| [The Complete HTML & CSS Course and Projects](https://www.udemy.com/course/the-complete-html-css-and-projects/learn/lecture/40260358?referralCode=87AE473FEAB17439152B) | 9.5 hours |
 
 <h3 id="templates"><b>Now It's Time 
 To Practise</b></h3>
@@ -154,7 +155,7 @@ To Practise</b></h3>
 | [Elzero Web School - Learn JavaScript in Arabic](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv) | 19 hours |
 | [Meta - Programming with JavaScript](https://www.coursera.org/learn/programming-with-javascript) | 20 hours |
 | [FreeCodeCamp - Learn JavaScript](https://youtu.be/PkZNo7MFNFg) [Optional]                       | 10 hours |
-| [ما وراء الjavascript - Learn JavaScript](https://youtube.com/playlist?list=PLSonS891oiVl0W5hljohjUiRRNoZJ55Fs&si=QzczAr-Gu0SWPW5D) [Optional]                       | 2 hours |
+| [javascriptما وراء ال - Learn JavaScript](https://youtube.com/playlist?list=PLSonS891oiVl0W5hljohjUiRRNoZJ55Fs&si=QzczAr-Gu0SWPW5D) [Optional] | 2 hours |
 
 <h3 id="jsPractice"><b>Practice on JavaScript</b></h3>
 
@@ -183,6 +184,15 @@ Practice, practice, and practice. You can't learn JavaScript without practicing 
 <h3 id="jsAdvanced"><b>Advanced JavaScript</b></h3>
 
 <a href="https://youtube.com/playlist?list=PL0Zuz27SZ-6N3bG4YZhkrCL3ZmDcLTuGd">Advanced Javascript Concepts</a> | 5 Hours
+
+<h1 id="pwa"><b>What's PWA ?</b></h2>
+<p>A progressive web app (PWA) is an app that's built using web platform technologies, but that provides a user experience like that of a platform-specific app.</p>
+
+<h3><b>PWA Syntax</b></h3>
+
+| Resources                                                                                        | Effort   |
+| ------------------------------------------------------------------------------------------------ | -------- |
+| [Progressive Web App - Learn PWA in Arabic](https://youtube.com/playlist?list=PLSonS891oiVmOngaJqLeTjgyaDY6u-0o3&si=fwOBny4x4qF5Kn4U) | 3 hours |
 
 <h1 id="advanced"><b>Advanced</b></h1>
 
