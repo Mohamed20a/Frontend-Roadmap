@@ -84,6 +84,12 @@ By the end of the course, you will be able to:
 | ------------------------------------------------------------- | -------- |
 | [Elzero Web School - Learn CSS](https://youtu.be/qyVkLebgfzY) | 12 hours |
 
+<h3 id="HTML5"><b>HTML & CSS Course and Projects</b></h3>
+
+| Resource                                                      | Effort   |
+| ------------------------------------------------------------- | -------- |
+| [The Complete HTML & CSS Course and Projects]([https://youtu.be/qyVkLebgfzY](https://www.udemy.com/course/the-complete-html-css-and-projects/learn/lecture/40260358?referralCode=87AE473FEAB17439152B)) | 9.5 hours |
+
 <h3 id="templates"><b>Now It's Time 
 To Practise</b></h3>
 
@@ -96,7 +102,6 @@ To Practise</b></h3>
 <hr/>
 <a href="https://youtube.com/playlist?list=PLDoPjvoNmBAyGaRGzPVZCkYx5L7Mo9Tbh">HTML And CSS Template 4</a> | 7 Hours
 <hr/>
-<a href="https://www.udemy.com/course/the-complete-html-css-and-projects/learn/lecture/40260358?referralCode=87AE473FEAB17439152B">The Complete HTML & CSS Course and Projects</a> | Udemy
 
 
 <br/>
@@ -149,6 +154,7 @@ To Practise</b></h3>
 | [Elzero Web School - Learn JavaScript in Arabic](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv) | 19 hours |
 | [Meta - Programming with JavaScript](https://www.coursera.org/learn/programming-with-javascript) | 20 hours |
 | [FreeCodeCamp - Learn JavaScript](https://youtu.be/PkZNo7MFNFg) [Optional]                       | 10 hours |
+| [ما وراء الjavascript - Learn JavaScript](https://youtube.com/playlist?list=PLSonS891oiVl0W5hljohjUiRRNoZJ55Fs&si=QzczAr-Gu0SWPW5D) [Optional]                       | 2 hours |
 
 <h3 id="jsPractice"><b>Practice on JavaScript</b></h3>
 
