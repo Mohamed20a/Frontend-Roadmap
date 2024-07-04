@@ -185,6 +185,8 @@ Practice, practice, and practice. You can't learn JavaScript without practicing 
 
 <a href="https://youtube.com/playlist?list=PL0Zuz27SZ-6N3bG4YZhkrCL3ZmDcLTuGd">Advanced Javascript Concepts</a> | 5 Hours
 
+<hr/>
+
 <h1 id="pwa"><b>What's PWA ?</b></h2>
 <p>A progressive web app (PWA) is an app that's built using web platform technologies, but that provides a user experience like that of a platform-specific app.</p>
 
