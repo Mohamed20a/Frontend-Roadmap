@@ -13,6 +13,7 @@ Are you looking to navigate the ever-evolving world of frontend development? Whe
 - <a href="#intermediate">Intermediate</a>
 - <a href="#advanced">Advanced</a>
 - <a href="#extra">Extra</a>
+- <a href="#summary">Summary</a>
 
 <h2 id="timeline"><b>Timeline</b></h2>
 
@@ -282,3 +283,9 @@ Practice, practice, and practice. You can't learn JavaScript without practicing 
 <h3 id="testing"><b>Testing</b></h3>
 
 <a href="https://www.youtube.com/playlist?list=PLC3y8-rFHvwirqe1KHFCHJ0RqNuN61SJd">React Testing Tutorial</a> | 5 Hours
+
+<h1 id="summary"><b>Summary</b></h1>
+
+<h3 id="driveLink"><b>Front End summary on the Drive</b></h3>
+
+<a href="https://drive.google.com/drive/folders/1o_5O_1ziscqQRHdau1JR4TGfxFo6_Tjo?usp=drive_link">Drive Link</a>
